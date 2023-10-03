@@ -28,4 +28,12 @@ Copy code
 npm start
 The server will be running at http://localhost:4000.
 
-Contributing
+## Contributors
+This project was developed by:
+
+- Shaik Chapal - [@Shaik-Chapal](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System.git)
+- Purity Turunen - [@TurunenP](https://github.com/TurunenP/Thingsee-Monitoring-System.git)
+- Divine Kweche Ebechue - [@Kweche-Ebechue-Divine](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System)
+- Manish Panthi - [@Manish Panthi](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System)
+
+
