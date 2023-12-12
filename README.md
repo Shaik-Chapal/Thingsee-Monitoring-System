@@ -1,49 +1,6 @@
-# Thingsee-Monitoring-System# Thingsee-Monitoring-System
-The Thingsee Sensor project, inspired by Haltian's IoT devices (Thingsee Air and Thingsee Count), utilizes an open weather API to enable precise air quality monitoring in various facilities. Integrating IoT devices, the application provides real-time data with advanced detection capabilities, ensuring accurate and up-to-the-minute air quality information. It seamlessly incorporates an outdoor weather API, offering users a holistic view of indoor air quality from Thingsee devices and external weather conditions.
+# Thingsee-Monitoring-System
 
-
-## Acknowledgements
-
-- [Thingsee AIR: (Haltian)](https://haltian.com/product/thingsee-air/)
-
-Thingsee AIR serves as a battery-operated wireless IoT sensor designed for monitoring indoor air quality. It tracks parameters such as Co², TVOC, temperature, barometric pressure, and humidity, offering a comprehensive view of both current air quality data and historical data.
-
-- [Thingsee COUNT: (Haltian)](https://haltian.com/product/thingsee-count-people-counter/)
-
-Thingsee COUNT: Thingsee COUNT is an IoT sensor device capable of sensing movement beneath it and providing reports on the frequency and direction of detected movements.
-- [OpenWeatherMap: (Open weather)](https://openweathermap.org/)
-
-OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delivers worldwide weather information through its API. This includes up-to-date weather conditions, forecasts, nowcasts, and historical weather data.
-
-
-### Haltian support
-- **Sensors**
-- **Gateways**
-- **Certificates**
-- **Documentations**
-
-
-# HOMEPAGE
-
-### Website View
-
-![Homepage](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System/assets/43337898/4654fcb8-2d61-4157-ada3-0e3c904a617e)
-
-
-### Mobile View
-![mobile](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/9f5e7767-947e-4e3c-b371-a121f658cf6a)
-
-
-## Project Management/Productivity Tools used
-
-**Code Editor:** - [(Visual Studio Code)](https://code.visualstudio.com/)
-
-
-**Project management and tool:**  - [(Trello)](https://trello.com/templates/project-management): Below;
-
-
-![trello](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/f83bc8c1-bae7-4301-9c57-86a19f45704f)
-
+## Methodology
 
 
 ### Tech used
