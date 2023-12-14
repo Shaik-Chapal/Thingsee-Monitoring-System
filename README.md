@@ -1,6 +1,8 @@
 # Thingsee-Monitoring-System
 
-## Methodology
+### Methodology for the web application
+
+![methodology](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System/assets/43337898/7a370d4e-c1ed-41e3-b1a1-6f23bd48a5f6)
 
 
 ### Tech used
